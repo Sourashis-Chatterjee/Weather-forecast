@@ -2,7 +2,6 @@ import { useState, useEffect, useRef } from 'react'
 import './App.css'
 
 function App() {
-//for search functionality at the very last
 const inputRef = useRef()
 
   //declared empty array set
